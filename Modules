@@ -1,0 +1,65 @@
+ITAI2376_Portfolio_JudithBarrios/
+│
+├── Module01_Intro/
+│   └── ITAI_2376_Module01_Intro.pptx
+│
+├── Module02_Frameworks/
+│   ├── ITAI_2376_Module02_Frameworks.pptx
+│   └── A02_Framework_Comparison.pdf
+│
+├── Module03_Neural_Network_Zoo/
+│   └── A03_Neural_Network_Zoo.pdf
+│
+├── Module04_Teach_CNN/
+│   ├── ITAI_2376_Module04_CNN_Basics.pptx
+│   └── A04_Teach_DL_to_Kids.pptx
+│
+├── Module05_NLP_Arrival/
+│   ├── ITAI_2376_Module05_NLP_RNNs.pptx
+│   ├── A05_Analyzing_Arrival_NLP.pdf
+│   └── NLP_Readings/
+│       ├── What_BERT_Is_Not.pdf
+│       ├── Mamba_Linear_Modeling.pdf
+│       └── Other_NLP_Papers.pdf
+│
+├── Module06_Transformers/
+│   ├── ITAI_2376_Module06_Transformers.pptx
+│   └── Articles/
+│       ├── Vision_Transformer.pdf
+│       ├── Self-Adaptive_LLMs.pdf
+│
+├── Module07_VAEs/
+│   ├── ITAI_2376_Module07_VAEs.pptx
+│   └── Readings/
+│       ├── VAEs_Basics.pdf
+│       └── VAE_vs_AE.pdf
+│
+├── Module08_GANs/
+│   └── ITAI_2376_Module08_GANs.pptx
+│
+├── Module09_Diffusion_Models/
+│   ├── ITAI_2376_Module09_Diffusion_Models.pptx
+│   └── Diffusion_Papers/
+│       ├── DDPM_Paper.pdf
+│       └── Diffusion_Tutorial.pdf
+│
+├── Module10_to_14_AI_Agents/
+│   ├── ITAI_2376_Module10_RL_Agents.pptx
+│   ├── ITAI_2376_Module11_Reasoning.pptx
+│   ├── ITAI_2376_Module12_Planning.pptx
+│   ├── ITAI_2376_Module13_AI_Agents.pptx
+│   └── ITAI_2376_Module14_MultiAgent_Systems.pptx
+│
+├── Midterm_Diffusion_CIFAR10/
+│   ├── Midterm_Diffusion_Model.ipynb
+│   ├── Generated_Images/
+│   └── Report.pdf
+│
+├── Capstone_AI_Agent/
+│   ├── Proposal.pdf
+│   ├── Final_Agent_Code.ipynb
+│   └── Planning_Notes/
+│
+└── Portfolio_Presentation/
+    ├── Pf_JudithBarrios_ITAI2376.pptx
+    └── Pf_JudithBarrios_ITAI2376.pdf
