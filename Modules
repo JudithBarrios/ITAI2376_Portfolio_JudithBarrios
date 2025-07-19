@@ -43,13 +43,6 @@ ITAI2376_Portfolio_JudithBarrios/
 │       ├── DDPM_Paper.pdf
 │       └── Diffusion_Tutorial.pdf
 │
-├── Module10_to_14_AI_Agents/
-│   ├── ITAI_2376_Module10_RL_Agents.pptx
-│   ├── ITAI_2376_Module11_Reasoning.pptx
-│   ├── ITAI_2376_Module12_Planning.pptx
-│   ├── ITAI_2376_Module13_AI_Agents.pptx
-│   └── ITAI_2376_Module14_MultiAgent_Systems.pptx
-│
 ├── Midterm_Diffusion_CIFAR10/
 │   ├── Midterm_Diffusion_Model.ipynb
 │   ├── Generated_Images/
